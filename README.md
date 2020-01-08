@@ -1,6 +1,6 @@
 # bytebank
 
-A new Flutter project.
+Flutter study project.
 
 ## Getting Started
 
